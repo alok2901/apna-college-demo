@@ -1,4 +1,4 @@
 # apna-college-demo
 This is my first Git Repositery
 <br>
-author -Alok Mishra 
+author -Alok (Grey Orange) 
